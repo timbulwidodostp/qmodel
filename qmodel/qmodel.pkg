@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'qmodel': Fitting parametric quantile models Use qmodel With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f qmodel.ado
+f qmodel.sthlp
+f qmodel_plot.ado
+f qmodel_postestimation.sthlp
+f qmodel_predict.ado
+f qmodel_quantile.ado
